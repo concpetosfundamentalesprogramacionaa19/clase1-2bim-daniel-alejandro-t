@@ -23,7 +23,7 @@ public class ArregloSeis {
             System.out.printf("%d\t\t%d\n", contador, c[contador]);
         }
         
-        for (int contador = 0; contador < c.length; contador++) {
+        for (int contador = 0; contador < c.length; contador++) {       // Imprime 100 + 
             c[contador] = 100+contador;
         }
         
